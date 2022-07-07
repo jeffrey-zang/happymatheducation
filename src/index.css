@@ -20,8 +20,7 @@ body {
 }
 
 .container {
-  max-width: 400px;
-  margin: 30px;
+  margin: 30px auto;
   background-color: #6E85B7;
   /* overflow: auto; */
   /* min-height: 300px auto; */
